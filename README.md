@@ -10,6 +10,6 @@ Currently, two official plugins are available:
 All the Source Code files are updated here. 
 Authentication :
 for authentication use the below user data
-Username : ashaburle
-email: ashaburle06@gmail.com
+- Username : ashaburle
+- email: ashaburle06@gmail.com
 you can make clone of this repository on your local mechine and run to check. 
